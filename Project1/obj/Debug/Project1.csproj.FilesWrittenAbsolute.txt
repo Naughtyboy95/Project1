@@ -1,0 +1,3 @@
+/Volumes/dppha/Project1/Project1/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Volumes/dppha/Project1/Project1/bin/Debug/Xamarin.Android.Support.v4.dll
+/Volumes/dppha/Project1/Project1/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
